@@ -1,0 +1,12 @@
+{
+  "latest": "1.0.0",
+  "releases": [
+    {
+      "version": "1.0.0",
+      "date": "2026-10-12",
+      "security": false,
+      "severity": null,
+      "summary": "First release for self-hosted installs."
+    }
+  ]
+}
