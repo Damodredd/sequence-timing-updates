@@ -1,12 +1,12 @@
 {
-  "latest": "1.0.0",
+  "latest": "0.1.0",
   "releases": [
     {
-      "version": "1.0.0",
+      "version": "0.1.0",
       "date": "2026-10-12",
       "security": false,
       "severity": null,
-      "summary": "First release for self-hosted installs."
+      "summary": "First release: install with Docker or Podman, chart revisions and reviews, move builders, compare, and offline work with a company server."
     }
   ]
 }
