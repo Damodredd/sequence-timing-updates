@@ -1,12 +1,19 @@
 {
-  "latest": "0.1.0",
-  "releases": [
-    {
-      "version": "0.1.0",
-      "date": "2026-10-12",
-      "security": false,
-      "severity": null,
-      "summary": "First release: install with Docker or Podman, chart revisions and reviews, move builders, compare, and offline work with a company server."
-    }
-  ]
+    "latest":  "0.2.1",
+    "releases":  [
+                     {
+                         "version":  "0.2.1",
+                         "date":  "2026-10-14",
+                         "security":  false,
+                         "severity":  null,
+                         "summary":  "Process builder (welding, laser, dispensing, screwdriving, press, vision), Pick \u0026 place for any kind of robot, capacity with what-ifs (2-up, a second robot) and feeder checks, payload and safety margins, adding steps below the selected row, the editor\u0027s theme on every page, shared libraries between laptops and the server, and Linux installer fixes."
+                     },
+                     {
+                         "version":  "0.1.0",
+                         "date":  "2026-10-12",
+                         "security":  false,
+                         "severity":  null,
+                         "summary":  "First release: install with Docker or Podman, chart revisions and reviews, move builders, compare, and offline work with a company server."
+                     }
+                 ]
 }
