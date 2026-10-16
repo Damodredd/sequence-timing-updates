@@ -1,6 +1,13 @@
 {
-    "latest":  "0.2.1",
+    "latest":  "0.3.0",
     "releases":  [
+                     {
+                         "version":  "0.3.0",
+                         "date":  "2026-10-15",
+                         "security":  false,
+                         "severity":  null,
+                         "summary":  "Variables below the chart, and formulas in durations (=[Weld time]*1.5) that work out again when a variable changes. Rows that touch the row they follow now stay touching when it gets shorter or moves."
+                     },
                      {
                          "version":  "0.2.1",
                          "date":  "2026-10-14",
