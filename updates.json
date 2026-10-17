@@ -1,6 +1,13 @@
 {
-    "latest":  "0.3.0",
+    "latest":  "0.4.0",
     "releases":  [
+                     {
+                         "version":  "0.4.0",
+                         "date":  "2026-10-17",
+                         "security":  false,
+                         "severity":  null,
+                         "summary":  "A new website (Vue), Done by for who does each step with capacity counting only named equipment, project plans in days with dates, milestones as 0-second moments, and Microsoft SQL Server as a database option."
+                     },
                      {
                          "version":  "0.3.0",
                          "date":  "2026-10-15",
