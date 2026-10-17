@@ -1,6 +1,13 @@
 {
-    "latest":  "0.4.0",
+    "latest":  "0.4.1",
     "releases":  [
+                     {
+                         "version":  "0.4.1",
+                         "date":  "2026-10-17",
+                         "security":  false,
+                         "severity":  null,
+                         "summary":  "Postgres only: the Microsoft SQL Server and company database install options are gone. An install that used them is told how to move its data over."
+                     },
                      {
                          "version":  "0.4.0",
                          "date":  "2026-10-17",
